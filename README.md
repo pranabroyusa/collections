@@ -1,1 +1,1 @@
-# collections-- Java Collections
+# collections-- Java Collections classes
